@@ -66,7 +66,7 @@ the page & receive flag.
 
   - ans: picoCTF{th3_c0nsp1racy_l1v3s_6f2c20e9}
 
-# Forensic -
+# Forensic
 
 ## unzip - 
 a link is given open it,extract it in winrar seen unzipped.
